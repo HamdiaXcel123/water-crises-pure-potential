@@ -1,0 +1,9 @@
+#image-container{
+    height: 500px;
+    object-fit: cover;
+    background-position: center;
+}
+
+#caption1{
+    margin-top: 90px;
+}
